@@ -29,3 +29,5 @@ class UserSeeder extends Seeder
         ]);
     }
 }
+
+//coba user
